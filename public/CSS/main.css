@@ -1,0 +1,9 @@
+main{
+    height: 100vh; /* Altura del viewport */
+    /*width: 100vw;   Ancho del viewport */
+    background-image: url('/assets/img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
